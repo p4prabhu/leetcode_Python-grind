@@ -4,9 +4,9 @@ class Solution:
         for i in range(1,len(nums)):
             if nums[j]!=nums[i]:
                 j+=1
-                nums[j]= nums[i]
-
+                nums[j]=nums[i]
         return j+1
+        
 
 
             
