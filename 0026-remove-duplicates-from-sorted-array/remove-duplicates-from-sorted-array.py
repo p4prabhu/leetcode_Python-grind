@@ -1,3 +1,4 @@
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         j=0
@@ -5,9 +6,8 @@ class Solution:
             if nums[j]!=nums[i]:
                 j+=1
                 nums[j]=nums[i]
-        return j+1
-        
-
+            
+        return j+1 # because we want to return the unique element
 
             
 
