@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
