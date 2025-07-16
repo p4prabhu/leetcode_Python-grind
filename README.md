@@ -14,4 +14,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
