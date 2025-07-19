@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/2470-removing-stars-from-a-string) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
