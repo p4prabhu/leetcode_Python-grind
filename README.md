@@ -30,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
