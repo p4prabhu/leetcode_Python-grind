@@ -27,7 +27,7 @@ class Solution:
 
         for i, j in enumerate(nums):
             if target-j in dic:
-                return [dic[target-j],i]
+                return [i,dic[target-j]]
 
 
             else:
