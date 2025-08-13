@@ -26,6 +26,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -44,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0020-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
