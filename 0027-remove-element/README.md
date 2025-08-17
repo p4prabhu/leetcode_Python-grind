@@ -1,7 +1,4 @@
-
-# [Remove Element](https://leetcode.com/problems/remove-element) ![](https://img.shields.io/badge/Easy-green)
-
-<p>Given an integer array <code>nums</code> and an integer <code>val</code>, remove all occurrences of <code>val</code> in <code>nums</code> <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a>. The order of the elements may be changed. Then return <em>the number of elements in </em><code>nums</code><em> which are not equal to </em><code>val</code>.</p>
+<h2><a href="https://leetcode.com/problems/remove-element">27. Remove Element</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>val</code>, remove all occurrences of <code>val</code> in <code>nums</code> <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a>. The order of the elements may be changed. Then return <em>the number of elements in </em><code>nums</code><em> which are not equal to </em><code>val</code>.</p>
 
 <p>Consider the number of elements in <code>nums</code> which are not equal to <code>val</code> be <code>k</code>, to get accepted, you need to do the following things:</p>
 
@@ -59,5 +56,3 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>0 &lt;= nums[i] &lt;= 50</code></li>
 	<li><code>0 &lt;= val &lt;= 100</code></li>
 </ul>
-
-        
