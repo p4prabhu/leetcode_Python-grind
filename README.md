@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0066-plus-one) |
 | [0605-can-place-flowers](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0066-plus-one) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
