@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -45,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0067-add-binary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -58,6 +60,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0067-add-binary) |
 | [2470-removing-stars-from-a-string](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/2470-removing-stars-from-a-string) |
 ## Database
 |  |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
