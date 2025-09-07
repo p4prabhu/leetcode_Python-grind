@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0584-find-customer-referee) |
+| [0613-shortest-distance-in-a-line](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0613-shortest-distance-in-a-line) |
 ## Trie
 |  |
 | ------- |
