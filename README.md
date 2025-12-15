@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
@@ -96,13 +99,16 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/p4prabhu/leetcode_Python-grind/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
